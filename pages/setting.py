@@ -1,0 +1,10 @@
+valid_email = 'trololo@mail.ru'
+valid_phone = '+7(000)9876541'
+valid_password = 'Ghbdtn123'
+valid_login = 'Passail'
+valid_ls = '888438809000'
+valid_username = u"Жабонов"
+ad_slogan = u"Персональный помощник в цифровом мире Ростелекома"
+site = 'https://b2c.passport.rt.ru'
+link_lk = '/account_b2c/page'
+drv_path = 'C:/***//chromedriver.exe'
